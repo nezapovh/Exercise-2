@@ -2,3 +2,5 @@
 This is documentation for exercise 2.
 First change
 second change
+
+## exercise 6
