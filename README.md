@@ -5,3 +5,5 @@ second change
 
 ## exercise 6
 2nd commit
+
+## Exercise 7 - master
