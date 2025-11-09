@@ -1,0 +1,6 @@
+**/*.exe
+**/*.h
+**/*.java
+/test/experimental/*
+!/test/experimental/oscilator
+/test/experimental/oscilator/*.c
