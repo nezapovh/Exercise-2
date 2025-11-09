@@ -4,3 +4,4 @@ First change
 second change
 
 ## exercise 6
+2nd commit
